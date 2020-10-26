@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Live For Code</title>
+  <title>Linxioa Blog</title>
   
   
   <link href="https://www.notes.worstone.cn/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://www.notes.worstone.cn/</id>
   
   <author>
-    <name>Live For Code</name>
+    <name>Linxioa</name>
     
   </author>
   
